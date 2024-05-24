@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppliComptaApi", "AppliComptaApi.csproj", "{12E9C2FF-12BE-498E-8E42-D42B3A95099E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E9C2FF-12BE-498E-8E42-D42B3A95099E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E9C2FF-12BE-498E-8E42-D42B3A95099E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E9C2FF-12BE-498E-8E42-D42B3A95099E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E9C2FF-12BE-498E-8E42-D42B3A95099E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED4EA24-81EE-4F25-B093-E107D198E031}
+	EndGlobalSection
+EndGlobal

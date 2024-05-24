@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "AppliComptaApi": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58904;http://localhost:58905"
+    }
+  }
+}
